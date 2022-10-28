@@ -19,7 +19,9 @@ LOBSTR is a great way to get started with Stellar.
 Simple, smooth and secure, it has all what it takes to manage your Lumens wisely. LOBSTR is a popular choice both for beginners and pros. Easily send, receive and trade your crypto!
 
 **Official Links** </br>
-Lobstr - [lobstr.co](https://lobstr.co) [iOS App Store](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892?platform=iphone) and [Google Play Store](https://play.google.com/store/apps/details?id=com.lobstr.client) 
+- LOBSTR - [Lobstr.co](https://lobstr.co) 
+- [iOS App Store](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892?platform=iphone) 
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.lobstr.client) 
 
 **Features**
  - Buy & Sell Crypto 
