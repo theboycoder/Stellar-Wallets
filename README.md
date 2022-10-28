@@ -19,7 +19,7 @@
 
 A number of third parties have developed wallets - apps that help you interact with the Stellar network and use lumens. The wallets in the Stellar ecosystem are growing everyday. Below you can learn and explore about the different wallets used in ecosystem on a daily basis.
 
-If you're new to the Stellar ecosystem, you can learn about Stellar at [Stellar.org](https://stellar.org/). This guide for everyone from beginners to pros looking for a wallet to set foot into the Stellar ecosystem and discover something new.
+If you're new to the Stellar ecosystem, you can learn about Stellar at [Stellar.org](https://stellar.org/). This guide for everyone from beginners to pros looking for a wallet to set foot and discover the Stellar ecosystem. 
 
 <h1>LOBSTR</h1>
 
