@@ -7,9 +7,15 @@
 </div>
 
 <p align="center">
-<a href="https://www.ledger.com/stellar-wallet"><img src="https://crypto-central.io/library/uploads/Ledger-Logo-3.png" width="40" Height="40" />
+<a href="https://www.ledger.com/stellar-wallet"><img src="https://crypto-central.io/library/uploads/Ledger-Logo-3.png" width="40" Height="40"/>
 <a href="https://www.freighter.app/"><img src="https://assets.website-files.com/62263a7d70491e20c8d2e400/6266e7c96560386e7579207b_freighter-logo-full-dark.svg" width="40" Height="40" />
-<a href="https://lobstr.co/"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/blv70xpcr4rpxz8ow5ie" width="40" Height="40" /></p>
+<a href="https://xbull.app/"><img src="https://xbull.app/wp-content/uploads/2022/07/website_logo.png" width="40" Height="40"/>
+<a href="https://lobstr.co/"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/blv70xpcr4rpxz8ow5ie" width="40" Height="40"/>
+<a href="https://vibrantapp.com/"><img src="https://play-lh.googleusercontent.com/0eYZBRXZb-xVzd_AVHnGV5g6Yfx7hDwD_5OFcrl6ieuuow2RpDhMgRI5W8YKH2_8GdE" width="40" Height="40"/>
+<a href="https://beansapp.com/"><img src="https://play-lh.googleusercontent.com/_Fh6tTmzyKhXZ3E4LdGeM4rCz49l9-Y5G07e4PaQgddPhS0APPjkn0kA1uZV5mivCoD1" width="40" Height="40"/>
+<a href="https://albedo.link/"><img src="https://kthouse.co/static/img/logo-albedo.38788ce4dc13.svg" width="40" Height="40"/>
+
+</p>
 
 A number of third parties have developed wallets - apps that help you interact with the Stellar network and use lumens. The wallets in the Stellar ecosystem are growing everyday. Below you can learn and explore about the different wallets used in ecosystem on a daily basis.
 
