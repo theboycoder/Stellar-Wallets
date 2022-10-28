@@ -140,6 +140,7 @@ Freighter is a non-custodial wallet extension that enables you to sign Stellar t
 <h1>Albedo</h1>
 
 <img src="https://user-images.githubusercontent.com/45983304/198730839-b6223494-17c8-4109-9cab-6791c9787df6.png" width="700" Height="600">
+ 
 </br>
 
 Single access point to Stellar universeAlbedo allows other Stellar apps to request transaction signing or identity verification without ever exposing your secret key.
@@ -156,3 +157,23 @@ Single access point to Stellar universeAlbedo allows other Stellar apps to reque
  - Multi-account support
  - Trustlines creation
  - Open Source
+
+ <h1>Ledger</h1>
+ 
+ <img src="https://user-images.githubusercontent.com/45983304/198731434-976fb347-c3d0-45a2-b025-8a6d13a97c64.png" width="700" Height="600">
+
+</br>
+
+ Secure your Stellar assets with the most trusted hardware wallet. Cold storage wallets are typically encrypted devices that store users' Stellar assets offline, providing a layer of security against the evolving threats emerging from being connected to the Internet.
+ 
+**Official Links**
+ - [Ledger Stellar](https://www.ledger.com/stellar-wallet)
+ 
+**Features**
+- Hardware
+- XLM Stellar Support
+- Cold Storge
+- Connect with Stellar Wallets
+- Ledger Nano S & Nano X
+- Ledger Live
+- State of the art sercuirty
