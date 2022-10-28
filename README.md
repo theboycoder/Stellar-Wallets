@@ -21,6 +21,10 @@ A number of third parties have developed wallets - apps that help you interact w
 
 <h1>LOBSTR</h1>
 
+<img src="https://user-images.githubusercontent.com/45983304/198729490-4f6b18e5-dabe-41b9-960f-1df984348956.png" width="700" Height="600">
+
+</br>
+
 LOBSTR is a great way to get started with Stellar. 
 Simple, smooth and secure, it has all what it takes to manage your Lumens wisely. LOBSTR is a popular choice both for beginners and pros. Easily send, receive and trade your crypto!
 
@@ -38,6 +42,10 @@ Simple, smooth and secure, it has all what it takes to manage your Lumens wisely
  - Manage Assets
 
 <h1>Vibrant</h1>
+
+<img src="https://user-images.githubusercontent.com/45983304/198730279-eca3baf8-739c-4dec-afff-0b31adda99e2.png" width="700" Height="600">
+
+</br>
 
 The Vibrant wallet is a non-custodial digital wallet application that stores digital currencies, including the USD Coin (USDC). The Vibrant wallet will store your USDC until you’re ready to cash out. With Vibrant you can now easily cash in and out of the crypto economy in the US and Argentina. Instantly, with no fees, at thousand of locations. 
 
@@ -58,8 +66,11 @@ The Vibrant wallet is a non-custodial digital wallet application that stores dig
  ... many more coming soon
 
 
- 
  <h1>Beans App</h1>
+ 
+<img src="https://user-images.githubusercontent.com/45983304/198730469-45f9a97f-065a-42fa-a468-6819453fafc9.png" width="700" Height="600">
+
+</br>
 
 Beans allows you to easily send and receive (cross-border) transactions, while earning interest on the currency of your choice. Weare on a mission to make money better. Anyone should be able to move money freely across the globe, while being able to earn yield on their currency of choice. It's a simple and easy to use wallet for everyone.
 
@@ -79,6 +90,10 @@ Beans allows you to easily send and receive (cross-border) transactions, while e
 - Automatic Currency Exchange
 
 <h1>xBull</h1>
+
+<img src="https://user-images.githubusercontent.com/45983304/198730593-3ec2e173-ab13-40c7-bb82-3b3a9f914c12.png" width="700" Height="600">
+
+
 
 The most versatile Stellar Wallet in the whole network… Created by demanding developers, for demanding users. xBull Wallet it’s free and everybody is welcome to use it, the extensionis compatible with all chromium based browsers (Chromium, Chrome, Brave, etc), it’s available on mobile (Both iOS and Android) and is also available as a progressive web app so it can be accessed from anywhere.
 
@@ -101,6 +116,10 @@ The most versatile Stellar Wallet in the whole network… Created by demanding d
 
 <h1>Freighter</h1>
 
+<img src="https://user-images.githubusercontent.com/45983304/198730726-5c1a24c5-2444-47a7-ac0b-b2afcdf59ed5.png" width="700" Height="600">
+
+</br>
+
 Freighter is a non-custodial wallet extension that enables you to sign Stellar transactions via your browser. It is an extension wallet develop by the Stellar team.
  
 **Official Links**
@@ -119,6 +138,9 @@ Freighter is a non-custodial wallet extension that enables you to sign Stellar t
  - Open Source
 
 <h1>Albedo</h1>
+
+<img src="https://user-images.githubusercontent.com/45983304/198730839-b6223494-17c8-4109-9cab-6791c9787df6.png" width="700" Height="600">
+</br>
 
 Single access point to Stellar universeAlbedo allows other Stellar apps to request transaction signing or identity verification without ever exposing your secret key.
 
