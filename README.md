@@ -125,7 +125,7 @@ The most versatile Stellar Wallet in the whole network… Created by demanding d
 Freighter is a non-custodial wallet extension that enables you to sign Stellar transactions via your browser. It is an extension wallet develop by the Stellar team.
  
 **Official Links**
- - Freighter - (Freighter.app)[https://www.freighter.app/]
+ - Freighter - [Freighter.app](https://www.freighter.app/)
  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/freighter/)
  - [Google Chrome](https://chrome.google.com/webstore/detail/freighter/bcacfldlkkdogcmkkibnjlakofdplcbk?hl=en)
  
